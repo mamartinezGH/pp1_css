@@ -1,0 +1,12 @@
+ul {
+    background-color: rgb(168, 166, 201);
+    color: rgb(16, 55, 184);
+    border-radius: 20px;
+    padding: 15px;
+    margin: 10px
+    
+}
+li{
+
+display: inline-block;
+}
